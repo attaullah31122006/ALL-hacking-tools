@@ -399,8 +399,7 @@ Desing:
 
 ---
 
-## Screanshot <img width="2.1%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/card-image.svg"/>
-#### view a screanshot for AllHackingTools
+## A.K
 <br>
 <p align="center">
 <img width="49.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AllHackingToolsImg/img/IMG_20210630_212422.jpg"/> 
