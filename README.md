@@ -1,11 +1,10 @@
-<img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/Logo/IMG-cd518796cb4b0527368a1b9dd67a8889-V.jpg"/>
 
 <p align="center">
 <a href="https://github.com/mishakorzik/AllHackingTools"><img title="Version" src="https://img.shields.io/badge/Version-2.7.4-yellow?style=for-the-badge&logo="></a>
 <a href="https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-GNU-brightgreen?style=for-the-badge&logo=gnu"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.8-red?style=for-the-badge&logo=python"></a>
 <a href="https://github.com/mishakorzik"><img title="Report" src="https://img.shields.io/badge/Copyring-2021-red?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-mishakorzik-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mishakorzik"><img title="Autor" src="https://img.shields.io/badge/Author-A.K The Hacker-blue?style=for-the-badge&logo=github"></a>
 
 </p>
 
@@ -23,7 +22,6 @@
 
 #### Hi, if you want to set up a termux quickly, here you are! More Hacking tools with one tool!
 
-> Я не несу ответственности за ваши действия. Скачивая программное обеспечение из этого репозитория, вы соглашаетесь с [лицензией](https://github.com/mishakorzik/AllHackingTools/blob/main/LICENSE).
 
 ---------
 ## Supported systems
@@ -67,23 +65,12 @@
 ## Installing <img width="2.5%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/>
 
 ```
-#Upgrade all & full packages
 apt update
 apt upgrade
-
-#Add your termux permision
 termux-setup-storage
-
-#Install package git
 apt install git
-
-#clone this repository
 git clone https://github.com/mishakorzik/AllHackingTools
-
-#cd to directory allhackingtools
 cd AllHackingTools
-
-#Start script to install system
 bash Install.sh
 ```
 
@@ -249,10 +236,10 @@ figlet -f block  AND  toilet -f block
 
 ```bash
 Emails:
- developer.mishakorzhik@gmail.com
+ developer.conquerrps@gmail.com
 
 Developers:
- mishakorzhik
+ A.K
 ```
 
 ## Bug?
@@ -262,7 +249,7 @@ If the tool fails, follow these steps:
    in detail
 
 2. Contact me through the following 
-   email: developer.mishakorzhik@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
+   email: developer.conquerrps@gmail.com  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/envelope-fill.svg"/>
 
 3. Submit the screenshot and explain 
    your problem with that error
